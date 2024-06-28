@@ -74,6 +74,7 @@
    ----
 
 7.  Кто автор функции `synchronizedWriters`?
+
     [authors](https://github.com/sash3939/Git-Tools/assets/156709540/6d1a720b-ceb6-4f57-a587-e01509b588a8)
     ----
    
