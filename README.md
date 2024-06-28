@@ -1,4 +1,4 @@
-# Домашнее задание к занятию «Инструменты Git»
+![image](https://github.com/sash3939/Git-Tools/assets/156709540/eace5d68-d36c-49ec-af56-70db478a0683)# Домашнее задание к занятию «Инструменты Git»
 
 ### Цель задания
 
@@ -32,6 +32,51 @@
 *В качестве решения ответьте на вопросы и опишите, как были получены эти ответы.*
 
 ---
+
+## РЕШЕНИЕ
+1. Найдите полный хеш и комментарий коммита, хеш которого начинается на `aefea`.
+   ![aefea](https://github.com/sash3939/Git-Tools/assets/156709540/52fab9d6-d37d-4f3f-8f73-79bc0a600450)
+   ----
+   ![aefea full](https://github.com/sash3939/Git-Tools/assets/156709540/ac049783-332b-4f84-9aee-52c1e6c8b49b)
+   ----
+
+2. Какому тегу соответствует коммит `85024d3`?
+   
+   [85024d3](https://github.com/sash3939/Git-Tools/assets/156709540/0383e395-f108-4e8f-8db3-6ed875c3c4a9)
+   ----
+
+3. Сколько родителей у коммита `b8d720`? Напишите их хеши.
+
+   [parents](https://github.com/sash3939/Git-Tools/assets/156709540/2a305932-5058-411d-8003-0afbb917ca10)
+   ----
+
+4.  Перечислите хеши и комментарии всех коммитов, которые были сделаны между тегами  v0.12.23 и v0.12.24.
+
+    [between tags](https://github.com/sash3939/Git-Tools/assets/156709540/ce98962d-b0f7-4002-a43b-1d59ec042fab)
+    ----
+
+5. Найдите коммит, в котором была создана функция `func providerSource`, её определение в коде выглядит так: `func providerSource(...)` (вместо троеточия перечислены аргументы).
+
+    [commits](https://github.com/sash3939/Git-Tools/assets/156709540/0ecce018-d5f8-4f22-8585-058feb80e962)
+    ----
+
+    [function](https://github.com/sash3939/Git-Tools/assets/156709540/e4767bfe-7757-4b2d-be76-c0aee2d6d889)
+    ----
+    [function1](https://github.com/sash3939/Git-Tools/assets/156709540/8e6a6950-3b69-424e-a744-07af1f28b0d0)
+    ----
+
+6. Найдите все коммиты, в которых была изменена функция `globalPluginDirs`.
+
+   [globalPluginDirs](https://github.com/sash3939/Git-Tools/assets/156709540/ba23c74c-6bec-40c0-8572-284056baff9e)
+   ----
+
+   [pretty-format](https://github.com/sash3939/Git-Tools/assets/156709540/3f7d4605-0d83-4b81-8d76-22c3aece8336)
+   ----
+
+7.  Кто автор функции `synchronizedWriters`?
+    [authors](https://github.com/sash3939/Git-Tools/assets/156709540/6d1a720b-ceb6-4f57-a587-e01509b588a8)
+    ----
+   
 
 ### Правила приёма домашнего задания
 
